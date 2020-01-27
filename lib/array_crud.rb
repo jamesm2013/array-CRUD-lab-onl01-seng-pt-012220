@@ -3,7 +3,7 @@ def create_an_empty_array
 def create_an_array
     array = ["wow", "I", "am", "really", "learning"]
 def add_element_to_end_of_array(array, element)
-  array << "array"
+  array << "array!"
 def add_element_to_start_of_array(array, element)
   cats.unshift ("learning cat")
 def remove_element_from_end_of_array(array)
