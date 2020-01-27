@@ -5,7 +5,7 @@ def create_an_array
 def add_element_to_end_of_array(array, element)
   array << "array!"
 def add_element_to_start_of_array(array, element)
-  cats.unshift ("learning cat")
+  cats.unshift ()
 def remove_element_from_end_of_array(array)
   cats.pop ("sleepy cat")
 def remove_element_from_tart_of_array(array)
