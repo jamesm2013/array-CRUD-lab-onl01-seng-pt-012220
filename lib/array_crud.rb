@@ -1,7 +1,7 @@
 def create_an_empty_array
   empty = []
 def create_an_array
-   cats = ["big cat", "small cat", "fat cat", "little cat"]
+   
 def add_element_to_end_of_array(array, element)
   cats << "sleepy cat"
 def add_element_to_start_of_array(array, element)
