@@ -1,18 +1,18 @@
 def create_an_empty_array
   empty = []
 def create_an_array
-   cats = ["big cat", "small cat", "fat cat", "little cat"]
+    array = ["wow", "I", "am", "really", "learning"]
 def add_element_to_end_of_array(array, element)
-  cats << "sleepy cat"
+  array << "array!"
 def add_element_to_start_of_array(array, element)
-  cats.unshift ("learning cat")
+  array.unshift "wow"
 def remove_element_from_end_of_array(array)
-  cats.pop ("sleepy cat")
+  array.pop "array!"
 def remove_element_from_tart_of_array(array)
-  cats.shift ("learning cat")
+  array.shift "wow"
 def retrieve_element_from_index(array, index_number)
-  cats[0]
+  array[0]
 def retrieve_first_element_from_array(array)
-  cats [1]
+  array [1]
 def retrieve_last_element_from_array(array)
-  cats [3]
+  array [3]
